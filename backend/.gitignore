@@ -1,0 +1,13 @@
+# Keys
+.env
+
+
+# Test files
+myFile.wav
+
+# Cache Files
+__pycache__/
+
+# Logs
+pip-log.txt
+pip-delete-this-directory.txt
