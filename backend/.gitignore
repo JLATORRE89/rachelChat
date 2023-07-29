@@ -3,6 +3,7 @@
 
 # Test files
 myFile.wav
+stored_data.json
 
 # Cache Files
 __pycache__/
